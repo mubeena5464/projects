@@ -5,10 +5,70 @@ h1 {
     color: grey;
 }
 
-p {
+#summary {
     text-align: center;
     line-height: 150%;
     font-family: 'Julius Sans One', sans-serif;
     font-style: italic;
+    float: left;
+    margin-right: 1 1 10px 10px;
+    position: relative;
+    top: 10px;
+    width: 500px;
+    left: 675px;
+    color: grey;
+    border: 15px solid grey;
+
+    
     
 }
+
+.date {
+    text-align: center;
+    float: bottom;
+    font-size: 250%;
+    font-family: 'Francois One', sans-serif;
+    font-style: bold;
+    position: relative;
+    top: 750px;
+    right: 290px;
+    color: red;
+    
+    
+    
+}
+
+#signup {
+    text-align:center ;
+    background-color: white;
+    width: 300px;
+    padding: 10px;
+    border: 25px solid grey;
+    margin: 25px;
+    float: left;
+    margin: 0 1 10px 10px;
+    position: relative;
+    right: 500px;
+    left: 200px;
+    top: 200px;
+}
+
+body {
+    background-image: url("http://p1.pichost.me/i/8/1314739.jpg");
+    
+}
+
+#firstimage {
+   position: relative;
+   right: 880px;
+   bottom: 50px;
+   border: 25px solid blue;
+}
+
+#secondimage {
+    position: relative;
+    left: 1300px;
+    bottom: 61px;
+    border: 25px solid blue;
+}
+
