@@ -3,6 +3,8 @@ h1 {
     text-align: center;
     text-decoration: underline;
     color: grey;
+    position: relative;
+    left:270px;
 }
 
 #summary {
@@ -31,7 +33,7 @@ h1 {
     font-style: bold;
     position: relative;
     top: 750px;
-    right: 290px;
+    right: 5px;
     color: red;
     
     
@@ -60,15 +62,15 @@ body {
 
 #firstimage {
    position: relative;
-   right: 880px;
-   bottom: 50px;
+   right: 10px;
+   bottom: 650px;
    border: 25px solid blue;
 }
 
 #secondimage {
     position: relative;
-    left: 1300px;
-    bottom: 61px;
+    left: 810px;
+    bottom: 360px;
     border: 25px solid blue;
 }
 
