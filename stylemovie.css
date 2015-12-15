@@ -1,4 +1,14 @@
- {
-    font-family: 'Archivo Black', sans-serif;
+h1 {
+    font-family: 'Frijole', cursive;
     text-align: center;
+    text-decoration: underline;
+    color: grey;
+}
+
+p {
+    text-align: center;
+    line-height: 150%;
+    font-family: 'Julius Sans One', sans-serif;
+    font-style: italic;
+    
 }
